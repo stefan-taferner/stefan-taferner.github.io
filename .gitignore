@@ -1,0 +1,11 @@
+# Never publish
+private/
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
